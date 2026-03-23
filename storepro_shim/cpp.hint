@@ -1,0 +1,2 @@
+#define STOREPROSHIM_API __declspec(dllexport)
+#define STOREPROSHIM_API __declspec(dllimport)
